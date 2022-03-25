@@ -1,4 +1,4 @@
-envirius
+my home assisant project
 ========
 
 ``envirius`` — universal virtual environments manager.
